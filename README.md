@@ -9,4 +9,7 @@ Grupo: [4E]
 
 ## Mi meta:
 Terminar el CBTIS y estudiar una carrera
-
+## Evidencia Sincronizacion
+Fecha:20/09/2026
+hora:9:25 am
+yo: Yanetzi Rojas hice el primer cambio
